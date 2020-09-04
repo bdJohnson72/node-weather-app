@@ -1,0 +1,23 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "simple command line app to learn Node and Heroku",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "12.18.3"
+  },
+  "keywords": [],
+  "author": "Brooks Johnson",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdJohnson72/node-weather-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bdJohnson72/node-weather-app/issues"
+  },
+  "homepage": "https://github.com/bdJohnson72/node-weather-app#readme"
+}
