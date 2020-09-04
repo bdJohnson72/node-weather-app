@@ -1,9 +1,9 @@
 const https = require('https');
 const http = require('http');
 
-const key = require('./keys')
-const apiKey = key.apikey;
-
+//const key = require('./keys')
+//const apiKey = key.apikey;
+const apiKey = process.env.API_KEY
 
 const zip = '02054';
 
